@@ -10,5 +10,7 @@ mul()
 {
 printf("for multiplication");
 }
-div();
+div(){
+	printf("for division");
+}
 }
