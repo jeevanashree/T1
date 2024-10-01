@@ -3,7 +3,9 @@ main()
 add(){
 printf("add");
 }
-sub();
+sub(){
+printf("for subtraction");
+}
 mul();
 div();
 }
